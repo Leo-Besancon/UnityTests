@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Products>
-  <Product>https://leo-besancon.github.io/UnityTests/etc/H2VAABm.jpg</Product>
-  <Product>https://leo-besancon.github.io/UnityTests/etc/uVrEU.jpg</Product>
+  <Product>./etc/H2VAABm.jpg</Product>
+  <Product>./etc/uVrEU.jpg</Product>
 </Products>
